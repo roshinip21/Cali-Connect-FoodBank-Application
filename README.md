@@ -12,7 +12,7 @@ A simple, interactive Streamlit application that helps users in California locat
 
 ## Demo
 
-![Streamlit App Screenshot](images/screenshot.png)
+![Streamlit App Screenshot](/images/Screenshot.png)
 *Example of the app in action.*
 
 ## Installation
